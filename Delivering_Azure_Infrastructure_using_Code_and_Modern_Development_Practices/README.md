@@ -3,9 +3,6 @@
 This session will show you how to create a continuous delivery
 pipeline that will deploy an Azure Virtual Machine.
 
-This workshop can be found at the short URL:
-[http://bit.ly/2Kr6vMA](http://bit.ly/2Kr6vMA)
-
 **Daniel Scott-Raynsford**
 
 _Continuous Delivery Practice Lead, IAG NZ_

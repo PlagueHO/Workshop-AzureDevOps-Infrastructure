@@ -16,4 +16,4 @@ practices including:
 
 The following workshops are available:
 
-- [Delivering Azure Infrastructure using Code and Modern Development Practices](Delivering_Azure_Infrastructure_using_Code_and_Modern_Development_Practices\README.MD)
+- [Delivering Azure Infrastructure using Code and Modern Development Practices](Delivering_Azure_Infrastructure_using_Code_and_Modern_Development_Practices/README.MD)
